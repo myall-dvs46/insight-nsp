@@ -1,1 +1,1 @@
-# insight-nsp
+# Northside Partnerhip "Insight" Intranet
